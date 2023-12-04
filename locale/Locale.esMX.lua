@@ -1,4 +1,4 @@
-local L = LibStub("AceLocale-3.0"):NewLocale("AspectsDramingCrest","esMX")
+local L = LibStub("AceLocale-3.0"):NewLocale("AspectsDreamingCrest","esMX")
 if not L then return end
 
 L["BKFD_TITAN_TOOLTIP_COUNT_LABEL_TOTAL"] = "Total: ";

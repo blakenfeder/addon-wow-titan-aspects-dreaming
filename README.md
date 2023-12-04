@@ -1,7 +1,7 @@
-# Tital Panel - Aspect's Draming Crest (for Retail)
+# Tital Panel - Aspect's Dreaming Crest (for Retail)
 
-World of Warcraft addon to display the Aspect's Draming Crest currency in the Titan Panel addon.
+World of Warcraft addon to display the Aspect's Dreaming Crest currency in the Titan Panel addon.
 
 **CurseForge**
 
-CurseForge link: [Titan Panel [Aspect's Draming Crest]](https://www.curseforge.com/wow/addons/titan-panel-aspects-dreaming-crest)
+CurseForge link: [Titan Panel [Aspect's Dreaming Crest]](https://www.curseforge.com/wow/addons/titan-panel-aspects-dreaming-crest)
